@@ -77,7 +77,7 @@ http://www.templatemo.com/tm-498-stimulus
                     <div class="home-thumb">
                          <div class="section-title">
                               <h4 class="wow fadeInUp" data-wow-delay="0.3s">welcome to my website</h4>
-                              <h1 class="wow fadeInUp" data-wow-delay="0.6s">Hello, I am <strong>Mr. Avinash Jadhav</strong> currently working in Nagpur City.</h1>
+                              <h1 class="wow fadeInUp" data-wow-delay="0.6s">Hello, I am <strong>Mr. Avinash Jadhav</strong> currently working in Pune City.</h1>
                               <p class="wow fadeInUp" data-wow-delay="0.9s">“It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.”</p>
                               
                               <a href="#about" class="wow fadeInUp smoothScroll section-btn btn btn-success" data-wow-delay="1.4s">Get Started</a>
